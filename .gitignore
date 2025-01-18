@@ -1,0 +1,7 @@
+.idea/*
+*.npy
+*.pyc
+__pycache__
+baseline/vid-item/trained_model/
+baseline/vid-user/trained_model/
+#data/
